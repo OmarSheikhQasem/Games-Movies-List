@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Top Games/Movies</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="ActionFragment"><b>1- Uncharted: Legacy of Thieves Collection\n\n2- Ghostwire: Tokyo\n\n3- Horizon Forbidden West\n\n4- Dying Light 2 Stay Human\n\n5- Far Cry 6</b></string>
+    <string name="PuzzleFragment"><b>1- Stray\n\n2- It Takes Two\n\n3- The Room 4: Old Sins\n\n4- Escape Simulator\n\n5- Poly Bridge</b></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Movie_ActionFragment"><b>1- Prey\n\n2- The Gray Man\n\n3- Uncharted\n\n4- Bullet Train\n\n5- The Batman</b></string>
+    <string name="Movie_PuzzleFragment"><b>1- Death on the Nile\n\n2- The Outfit\n\n3- Enola Holmes 2\n\n4- See How They Run\n\n5- Deep Water</b></string>
+</resources>
